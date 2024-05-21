@@ -1,4 +1,4 @@
 .next
-node_modules
 .DS_Store
-.vscode
+.vs_code
+node_modules
